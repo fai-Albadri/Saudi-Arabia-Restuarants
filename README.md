@@ -9,13 +9,13 @@ The goal of this project is to use classification models to show the relationshi
  ## Design
  This project is one of the T5 Data Science BootCamp requirements. Data provided by [Kaggle](https://www.kaggle.com/) has been used in this project. The [Dataset](https://www.kaggle.com/fahd09/riyadh-restaurants-20k?select=riyadh_resturants_clean.csv) include most of the restuarant names in Riyadh (scrapped from foursquare.com) . Classifying reatuarants adresses,likes ,prices and rating using machine learning algorithms would enable us to understand if thier are relationships beween restuarants addresses and prices and also comparing with the rating.
  ## Data
- The dataset is provided in .csv format. It contains 19360 Restaurant , each Restaurant has 11 features. The most relevant feature to this project is the text which contains the Restaurant name. Some other features are extracted from other features such as the adress it is extracted from location, where it contains ( Latitude,Longitude ). Other important features are the price,Rating and likes that we can extract how these features have relationship between them to affect on the customers.
+ The dataset is provided in .csv format. It contains 19360 Restaurant , each Restaurant has 11 features. The most relevant feature to this project is the text which contains the Restaurant name. Some other features are extracted from other features such as the adress it is extracted from location, where it contains ( Latitude,Longitude ). Other important features are the price,Rating and likes that we can extract how these features have relationship between them to effect on the customers.
  
- This dataset contains follwing features:
+ This dataset contains following features:
 
 - name: The name of the Restaurant. Some names are only available in Arabic.
 - categories: The list of categories (in English) separated by a comma.
-- address: The address according to foursquare. Unfortunately, it is the least useful column in the dataset because lots of resutrants lack a formal address.
+- address: The address according to foursquare. Unfortunately, it is the least useful column in the dataset because lots of restaurant lack a formal address.
 - lat: Latitude.
 - lng: Longitude.
 - price: shows the price category (Cheap, Moderate, Expensive, Very Expensive)
@@ -29,12 +29,12 @@ The goal of this project is to use classification models to show the relationshi
  
  ***Linear Regression***
  
-Shows the relation between the features in restuarant.
+Shows the relation between the features in restaurant.
 
 ***Plotting for all features with the price and category***
 
 ***Heatmap***
-Shows the number of likes for restuarants accourding to the price range and category.
+Shows the number of likes for restaurants accourding to the price range and category.
 
  ## Tools
  
@@ -43,3 +43,4 @@ Shows the number of likes for restuarants accourding to the price range and cate
 
  ## Communication
  The slides are provided [HERE](https://github.com/fai-Albadri/Saudi-Arabia-Restuarants/blob/3fedfbb0805721c10798e508acea10596a9ccb5a/Project%20Presentation.pptx)
+And the project description is [HERE](https://github.com/fai-Albadri/Saudi-Arabia-Restuarants/blob/a677abeec10dd040df23d8c98b398f861b6b06a8/Project%20Description.docx)
