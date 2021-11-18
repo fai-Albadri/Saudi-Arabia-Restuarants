@@ -30,6 +30,11 @@ The goal of this project is to use classification models to show the relationshi
  ***Linear Regression***
  
 Shows the relation between the features in restaurant.
+The accuracy(r2 score) did not have good percentage I dont know what is the problem.
+
+
+![image](https://user-images.githubusercontent.com/70685098/142379258-783b1ebf-8150-4ade-94e8-8b0a35a9f072.png?)
+
 
 ***Plotting for all features with the price and category***
 
