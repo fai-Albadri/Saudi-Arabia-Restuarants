@@ -29,13 +29,17 @@ The goal of this project is to use classification models to show the relationshi
  
  ***Linear Regression***
  
-It is used to estimate real values (number of restuarants than has largest number of rating,number of reastuarant that has the same cuisine in the same area,count the restuarants that have the same cuisine) based on continuous variable(s)
+Shows the relation between the features in restuarant.
 
-***SVM (Support Vector Machine)***
+***Plotting for all features with the price and category***
+
+***Heatmap***
+Shows the number of likes for restuarants accourding to the price range and category.
 
  ## Tools
  
  - Numpy and Pandas for data manipulation
-- Scikit-learn for modeling
 - Matplotlib and Seaborn for plotting
-- Streamlit for interactive visualizations
+
+ ## Communication
+ The slideS are provided [HERE](https://github.com/fai-Albadri/Saudi-Arabia-Restuarants/blob/3fedfbb0805721c10798e508acea10596a9ccb5a/Project%20Presentation.pptx)
