@@ -42,4 +42,4 @@ Shows the number of likes for restuarants accourding to the price range and cate
 - Matplotlib and Seaborn for plotting
 
  ## Communication
- The slideS are provided [HERE](https://github.com/fai-Albadri/Saudi-Arabia-Restuarants/blob/3fedfbb0805721c10798e508acea10596a9ccb5a/Project%20Presentation.pptx)
+ The slides are provided [HERE](https://github.com/fai-Albadri/Saudi-Arabia-Restuarants/blob/3fedfbb0805721c10798e508acea10596a9ccb5a/Project%20Presentation.pptx)
